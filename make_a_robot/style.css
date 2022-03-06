@@ -1,0 +1,41 @@
+img {
+  width: 50px;
+}
+
+#face {
+  width: 400px;
+}
+
+#eyes2{
+  width: 250px;
+  position:absolute;
+  top: 200px;
+  left: 50px;
+}
+
+#mouth3{
+  width: 250px;
+  position: absolute;
+  top: 280px;
+  left: 50px;
+}
+
+#nose2{
+  width: 150px;
+  position: absolute;
+  top: 200px;
+  left: 85px;
+}
+
+#hair1{
+  width: 350px;
+  position: absolute;
+  top: 0px;
+  left: 25px;
+}
+#bowtie{
+  width: 250px;
+  position: absolute;
+  top: 355px;
+  left: 40px;
+}
